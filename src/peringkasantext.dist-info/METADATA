@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.3
+Name: peringkasantext
+Formal-Name: Peringkasan Text
+App-ID: com.frsnmk.peringkasantext.peringkasantext
+Version: 0.0.1
+Home-page: https://peringkasantext.frsnmk.com/peringkasantext
+Author: frsnmk
+Author-email: razedman@gmail.com
+Summary: Aplikasi Peringkasan Text Otomatis menggunakan metode CLSA
