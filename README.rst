@@ -13,7 +13,7 @@ in your folder
 
 a. create virtual environment (virtualenv .)
 
-b. get into virtual environtment (Script\activate)
+b. get into virtual environment (Script/activate)
 
 c. intall numpy, sastrawi and nltk package
 
