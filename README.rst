@@ -7,17 +7,6 @@ consider** `becoming a financial member of BeeWare`_.
 
 Aplikasi Peringkasan Text Otomatis menggunakan metode CLSA (Automatic Text Summarization)
 
-How to use:
-
-in your folder
-
-a. create virtual environment (virtualenv .)
-
-b. get into virtual environment (Script/activate)
-
-c. intall numpy, sastrawi and nltk package
-
-d. clone this project
 
 .. _`Briefcase`: https://github.com/beeware/briefcase
 .. _`The BeeWare Project`: https://beeware.org/
