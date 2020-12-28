@@ -12,7 +12,11 @@ formal_name = "Peringkasan Text"
 description = "Aplikasi Peringkasan Text Otomatis menggunakan metode CLSA"
 icon = "src/peringkasantext/resources/peringkasantext"
 sources = ['src/peringkasantext']
-requires = []
+requires = [
+    'nltk==3.5',
+    'numpy==1.19.3',
+    'Sastrawi==1.0.1'
+]
 
 
 [tool.briefcase.app.peringkasantext.macOS]
